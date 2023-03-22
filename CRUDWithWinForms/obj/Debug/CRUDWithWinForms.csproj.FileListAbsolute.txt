@@ -1,0 +1,10 @@
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\bin\Debug\CRUDWithWinForms.exe.config
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\bin\Debug\CRUDWithWinForms.exe
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\bin\Debug\CRUDWithWinForms.pdb
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\obj\Debug\CRUDWithWinForms.csprojResolveAssemblyReference.cache
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\obj\Debug\CRUDWithWinForms.Properties.Resources.resources
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\obj\Debug\CRUDWithWinForms.Views.MainView.resources
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\obj\Debug\CRUDWithWinForms.Views.ItemView.resources
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\obj\Debug\CRUDWithWinForms.csproj.GenerateResource.Cache
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\obj\Debug\CRUDWithWinForms.exe
+C:\Users\mmari\Desktop\CRUD\CRUD-SQL-WinForms\CRUDWithWinForms\obj\Debug\CRUDWithWinForms.pdb
